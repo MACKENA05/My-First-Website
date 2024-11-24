@@ -28,7 +28,7 @@ To run this website,you only need a modern web browser(Google Chrome,Firefox,Saf
   
    You can clone this project to your local machine using Git:
 ```bash
-git clone https://github.com/your-username/portfolio-website.git
+git clone git@github.com:MACKENA05/My-First-Website.git
 ```
 3. **Open the index.html file**
 
