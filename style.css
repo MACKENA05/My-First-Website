@@ -215,7 +215,7 @@ input, textarea {
     border: 1px solid #ccc;
     border-radius: 5px;
   }
-  button {
+  #CONTACT button {
     background-color:brown;
     color: white;
     padding: 10px 20px;
