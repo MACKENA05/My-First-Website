@@ -153,4 +153,50 @@ span{
         padding: 20px 0;
         font-size: larger;
       }
+
+      /* Projects Section */
+.project-card {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    margin-bottom: 30px;
+    transition: transform 0.3s ease;
+}
+
+.project-card:hover {
+    transform: translateY(-10px);
+}
+#PROJECTS h2{
+    font-size: 3.5em;
+    margin-bottom: 20px;
+    color:black;
+    text-align: center;
+  }
+
+
+.project-image {
+    width: 50%;
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+    margin: 0 auto;
+
+    
+    
+}
+
+.project-card h3 {
+    padding: 15px;
+    font-size: 2em;
+    text-align: center;
+    color: #333;
+}
+
+.project-card p {
+    padding: 0 15px 15px;
+    font-size: 1.5em;
+    color: #555;
+    text-align: center;
+}
    
