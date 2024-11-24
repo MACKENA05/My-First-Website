@@ -4,6 +4,7 @@ html,body{
     box-sizing: border-box;
     background-color: slategray;
 } 
+ /* Header section */
 
 .header-container{
     background-color:darkolivegreen;
@@ -35,4 +36,36 @@ nav a:hover{
     margin-bottom: 20px;
     color:black;
     text-align: center;
+}
+
+/*HOME SECTON*/
+
+#HOME {
+    background-image: url(./Images/bg.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 40px 0;
+    margin-bottom: 10px;
+}
+  
+#HOME p{
+   width:100%;
+   color:white;
+   padding-left: 10px;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 50px;
+   padding-top: 100px;
+}
+
+span{
+    color: aqua;
+}
+#HOME button{
+    color:white;
+    font-size: large;
+    padding: 20px;
+    cursor: pointer;
+    background-color: red;
+
 }
